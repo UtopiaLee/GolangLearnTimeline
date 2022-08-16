@@ -1,7 +1,7 @@
-package main 
+package example
 
 import "fmt"
 
-func main(){
-  fmt.Println("go project test")
+func main() {
+	fmt.Println("go project test")
 }
